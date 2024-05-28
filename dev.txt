@@ -1,5 +1,11 @@
 dev
 develop
 devidieiv
+<<<<<<< HEAD
 edit develop11
 edit develop222
+=======
+br edit111
+br edit222
+br edit333
+>>>>>>> 40334d6 (edit dev.txt in br 333)
